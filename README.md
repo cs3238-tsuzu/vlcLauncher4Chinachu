@@ -21,6 +21,9 @@
 - $ vlcLauncher4Chinachu
 - インストール完了
 
+# Screenshot
+![スクリーンショット](/files/screenshot.png)
+
 # License
 - Under the MIT License
 - Copyright (c) 2018 Tsuzu
